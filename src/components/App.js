@@ -4,10 +4,6 @@ import FrozenHead from 'react-frozenhead'
 import React from 'react'
 import SupportStore from '../stores/SupportStore'
 import { RouteHandler } from 'react-router'
-import ga from 'react-google-analytics'
-
-ga('create', 'UA-62785624-1', 'auto');
-ga('send', 'pageview');
 
 export default class App extends React.Component {
 
