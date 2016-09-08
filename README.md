@@ -3,6 +3,12 @@
 ```
 $ npm install -g --prefix=$HOME git://github.com/tristan-k/filepizza.git#localfonts
 ```
+
+Changes:
+
+- Removed google-analytics
+- Cosmetic changes to match subdomain  
+
 ---
 
 <a href="https://xkcd.com/949/"><img src="http://imgs.xkcd.com/comics/file_transfer.png" alt="XKCD 949" width="30%" align="right" /></a> <img src="static/images/wordmark.png" alt="FilePizza wordmark" width="50%" /> <h3>Peer-to-peer file transfers in your browser</h3>
