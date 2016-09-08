@@ -56,7 +56,7 @@
     "twilio": "^2.9.1",
     "webpack": "^1.12.14",
     "webrtcsupport": "^2.1.2",
-    "webtorrent": "^0.96.4",
+    "webtorrent": "^0.90.3",
     "winston": "^1.0.1",
     "xkcd-password": "^1.2.0"
   },
